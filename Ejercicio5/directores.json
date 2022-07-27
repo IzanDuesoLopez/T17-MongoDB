@@ -1,0 +1,16 @@
+[{
+  "_id": "12345678M",
+  "nomApels": "Izan Dueso López",
+  "dniJefe": "12345678M",
+  "despacho": 1
+},{
+  "_id": "32345678S",
+  "nomApels": "Dani Floria",
+  "dniJefe": "32345678S",
+  "despacho": 2
+},{
+  "_id": "32775678K",
+  "nomApels": "Nico Perni",
+  "dniJefe": "32775678K",
+  "despacho": 3
+}]
