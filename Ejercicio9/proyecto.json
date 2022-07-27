@@ -1,0 +1,13 @@
+[{
+  "_id": "aaaa",
+  "nombre": "Java",
+  "horas": 120
+},{
+  "_id": "aaab",
+  "nombre": "C#",
+  "horas": 85
+},{
+  "_id": "aabc",
+  "nombre": "DevOps",
+  "horas": 240
+}]
