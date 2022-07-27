@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62e10eaeb1b0debfdf3c37bf"
+  },
+  "lugar": "Reus",
+  "capacidad": 500
+},{
+  "_id": {
+    "$oid": "62e10f25b1b0debfdf3c37c0"
+  },
+  "lugar": "Tarragona",
+  "capacidad": 300
+},{
+  "_id": {
+    "$oid": "62e10f36b1b0debfdf3c37c1"
+  },
+  "lugar": "Barcelona",
+  "capacidad": 2000
+}]

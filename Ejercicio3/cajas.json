@@ -1,0 +1,13 @@
+[{
+  "_id": 11111,
+  "contenido": "ordenador",
+  "valor": 900
+},{
+  "_id": 12221,
+  "contenido": "pantalla",
+  "valor": 300
+},{
+  "_id": 12333,
+  "contenido": "impresora",
+  "valor": 400
+}]

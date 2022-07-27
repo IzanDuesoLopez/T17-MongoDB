@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "62e115a6b1b0debfdf3c37c9"
+  },
+  "nombre": "Medicina"
+},{
+  "_id": {
+    "$oid": "62e115b4b1b0debfdf3c37ca"
+  },
+  "nombre": "Física"
+},{
+  "_id": {
+    "$oid": "62e115c6b1b0debfdf3c37cb"
+  },
+  "nombre": "Filología"
+}]
