@@ -1,0 +1,13 @@
+[{
+  "_id": 1,
+  "CODIGO": 1234,
+  "NOMAPELS": "ROBERTO GONZALES"
+},{
+  "_id": 2,
+  "CODIGO": 9982,
+  "NOMAPELS": "ALBERTO CHICHOTE"
+},{
+  "_id": 3,
+  "CODIGO": 7522,
+  "NOMAPELS": "FERNANDO OSORIO"
+}]

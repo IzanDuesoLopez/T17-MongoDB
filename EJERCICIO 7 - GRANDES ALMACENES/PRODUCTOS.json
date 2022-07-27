@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "CODIGO": 99,
+  "NOMBRE": "TELEVISION",
+  "PRECIO": 150
+},{
+  "_id": 2,
+  "CODIGO": 91,
+  "NOMBRE": "TABLET",
+  "PRECIO": 390
+},{
+  "_id": 3,
+  "CODIGO": 95,
+  "NOMBRE": "ORDENADOR",
+  "PRECIO": 1500
+}]

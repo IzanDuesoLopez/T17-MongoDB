@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "DNI": "23452234I",
+  "NOMBRE": "DIN",
+  "APELLIDOS": "DJARIN",
+  "DEPARTAMENTO": 234
+},{
+  "_id": 2,
+  "DNI": "29952148B",
+  "NOMBRE": "KAYLE",
+  "APELLIDOS": "SUNDJATA",
+  "DEPARTAMENTO": 2234
+},{
+  "_id": 3,
+  "DNI": "23495156H",
+  "NOMBRE": "MORGANA",
+  "APELLIDOS": "DE ARCO",
+  "DEPARTAMENTO": 7544
+}]

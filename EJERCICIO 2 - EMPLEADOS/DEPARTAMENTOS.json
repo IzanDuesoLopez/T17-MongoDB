@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "CODIGO": 234522,
+  "NOMBRE": "MATERIALES",
+  "PRESUPUESTO": 45786
+},{
+  "_id": 2,
+  "CODIGO": 178874,
+  "NOMBRE": "KIOTO",
+  "PRESUPUESTO": 23324
+},{
+  "_id": 3,
+  "CODIGO": 688754,
+  "NOMBRE": "POLONIA",
+  "PRESUPUESTO": 98824
+}]
